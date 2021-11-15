@@ -15,7 +15,7 @@ Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreat
 - 🤔 I occasionally write articles
 - 📫 How to reach me: xclolatunbosun@gmail.com.
 - 😄 observation: I know my surname is difficult to pronounce, hang in there 😄😄😄
-- ⚡ Fun fact: If I'm not solving algorithm problems, I'm trying to take fish from my mom's pot
+- ⚡ Fun fact: If I'm not solving algorithm problems, I'm playing Play Station
 
 
 #### Profile Visits
