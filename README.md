@@ -1,7 +1,7 @@
 ### Hi there! Excel Olatunbosun here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 A full stack developer, with passion for pounded yam and Egusi Soup!
-Checkout my[article](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options).
+Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options).
 
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) -->
@@ -23,7 +23,7 @@ Checkout my[article](https://www.educative.io/edpresso/what-is-node-cryptocreate
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jorsh96.jorsh96)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theexcel.theexcel)
 
 <details>
 <summary>
@@ -43,7 +43,7 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Jorsh96&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=theexcel&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
