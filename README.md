@@ -4,9 +4,6 @@ A full stack developer, with passion for pounded yam and Egusi Soup!
 Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options).
 
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) -->
-
- [![Linkedin Badge](https://img.shields.io/badge/-muazu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([www.linkedin.com/in/excelolatunb](https://www.linkedin.com/in/excelolatunb/)) [![Mail Badge](https://img.shields.io/badge/-muazu.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:xclolatunbosun@gmail.com)
 
 <!--
  [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)  -->
