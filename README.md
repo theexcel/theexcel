@@ -12,7 +12,7 @@ Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreat
 
 <!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
 - 🔭 I’m currently working on a React Native Project.
-- 🌱 I'm currently learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
+- 🌱 I'm learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
 - 🤔 I occasionally write articles
 - 📫 How to reach me: I'm on LinkedIn
 - 😄 observation: I know my surname is difficult to pronounce, hang in there 😄😄😄
