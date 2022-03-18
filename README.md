@@ -10,7 +10,8 @@ Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreat
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com)
+<!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
+- 🔭 I’m currently working on a React Native Project.
 - 🌱 I'm currently learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
 - 🤔 I occasionally write articles
 - 📫 How to reach me: I'm on LinkedIn
