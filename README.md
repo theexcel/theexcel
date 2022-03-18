@@ -13,7 +13,7 @@ Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreat
 - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com)
 - 🌱 I'm currently learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
 - 🤔 I occasionally write articles
-- 📫 How to reach me: xclolatunbosun@gmail.com.
+- 📫 How to reach me: I'm on LinkedIn
 - 😄 observation: I know my surname is difficult to pronounce, hang in there 😄😄😄
 - ⚡ Fun fact: If I'm not wrting codes, I'm playing Play Station.
 
