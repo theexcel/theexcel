@@ -1,8 +1,8 @@
 ### Hi there! Excel Olatunbosun here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-A full stack developer, with passion for spice!
-Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options).
-
+A full stack developer!
+Checkout my atricles [Node Cryptocreatesign](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options)
+& [Distributed Systems](https://medium.com/@theexceel/distributed-systems-51467723d700).
 
 
 <!--
@@ -13,10 +13,9 @@ Checkout my [article](https://www.educative.io/edpresso/what-is-node-cryptocreat
 <!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
 - 🔭 I’m currently working on a React Native Project.
 - 🌱 I'm learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
-- 🤔 I occasionally write articles
-- 📫 How to reach me: I'm on LinkedIn
-- 😄 observation: I know my surname is difficult to pronounce, hang in there 😄😄😄
-- ⚡ Fun fact: If I'm not wrting codes, I'm playing Play Station.
+- 🤔 I occasionally write articles.
+- 📫 How to reach me: I'm on LinkedIn.
+- ⚡ Fun fact: When I'm not wrting codes, I'm playing Play Station.
 
 
 #### Profile Visits
