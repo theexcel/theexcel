@@ -11,11 +11,11 @@ Checkout my atricles [Node Cryptocreatesign](https://www.educative.io/edpresso/w
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
-- 🔭 I’m currently working on a React Native Project.
-- 🌱 I'm learning Cloud Engineering, and actively reading on Web3 and Security Engineering.
+- 🔭 I’m currently engineering.
+- 🌱 I'm learning some fun technologies.
 - 🤔 I occasionally write articles.
 - 📫 How to reach me: I'm on LinkedIn.
-- ⚡ Fun fact: When I'm not wrting codes, I'm playing Play Station.
+- ⚡ Fun fact: I'm currently playing Play Station.
 
 
 #### Profile Visits
