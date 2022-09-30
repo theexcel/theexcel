@@ -12,7 +12,7 @@ Checkout my atricles [Node Cryptocreatesign](https://www.educative.io/edpresso/w
 
 <!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
 - 🔭 I’m currently engineering.
-- 🌱 I'm learning some fun technologies.
+- 🌱 I'm learning so many things at the same damn time.
 - 🤔 I occasionally write articles.
 - 📫 How to reach me: I'm on LinkedIn.
 - ⚡ Fun fact: I'm currently playing Play Station.
