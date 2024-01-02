@@ -1,8 +1,8 @@
 ### Hi there! Excel Olatunbosun here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 A full stack developer!
-Checkout my atricles on [Node Cryptocreatesign](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options)
-& [Distributed Systems](https://medium.com/@theexceel/distributed-systems-51467723d700).
+Checkout my atricles on [Educative](https://www.educative.io/edpresso/what-is-node-cryptocreatesign-algorithm-options)
+& [Medium](https://medium.com/@theexceel/).
 
 
 <!--
@@ -12,9 +12,9 @@ Checkout my atricles on [Node Cryptocreatesign](https://www.educative.io/edpress
 
 <!-- - 🔭 I’m currently working on [Jwizzy](https://somethinghuge.com) -->
 - 🔭 I’m an aspiring chess grand master.
-- 🌱 I'm learning so many things at the same damn time.
+- 🌱 I'm am studying ML models.
 - 🤔 I occasionally write articles.
-- 📫 How to reach me: I'm on LinkedIn.
+- 📫 How to reach me: I'm on [Linkedin](https://www.linkedin.com/in/excelolatunb).
 - ⚡ Fun fact: I'm currently playing Play Station.
 
 
